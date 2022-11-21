@@ -1,0 +1,16 @@
+img {
+    border-radius: 40%;
+    max-width: 35%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+body  {
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+    font-size: 72px;
+}
