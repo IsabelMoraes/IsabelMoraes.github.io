@@ -35,6 +35,13 @@ h1 {
 
 }
 
+.skills {
+  margin-top: 10px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
 .academic-title {
   text-align: center;
     font-size: 45px;
@@ -44,7 +51,22 @@ h1 {
   font-size: 25px;
   text-align: justify;
   margin-top: 10px;
-  margin-bottom: 100px;
-  margin-right: 300px;
-  margin-left: 300px;
+  margin-bottom: 60px;
+  margin-left: 25%;
+  
+}
+
+
+.programing-title {
+  text-align: center;
+    font-size: 45px;
+}
+
+.programing-text {
+  font-size: 25px;
+  text-align: justify;
+  margin-top: 10px;
+  margin-bottom: 60px;
+  margin-left: 25%;
+  
 }
